@@ -158,18 +158,4 @@ export default {
 .btn:hover {
   cursor: pointer;
 }
-/* 
-.zero {
-  grid-column: 1 / 3;
-}
-
-.btn {
-  background-color: #F2F2F2;
-  border: 1px solid #999;
-}
-
-.operator {
-  background-color: orange;
-  color: white;
-} */
 </style>
